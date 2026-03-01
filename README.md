@@ -1,9 +1,5 @@
 # Automated-Invoice-Processing-System
-Here is a clean, professional **README.md** generated from your Word document. You can copy this directly into your GitHub repository.
-
-(Reference source: )
-
-
+<img width="1720" height="393" alt="image" src="https://github.com/user-attachments/assets/288f2bf0-26d4-47d9-806e-2c29d92eb8c7" />
 
 # Automated Invoice Processing System (n8n Workflow)
 
